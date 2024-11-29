@@ -48,5 +48,3 @@ DETRのデモコードは[公式実装](https://colab.research.google.com/github
         scores, boxes = detect(im, detr, transform)
     ```
     
-
----# ODAM-DETR
